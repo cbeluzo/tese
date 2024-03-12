@@ -1,2 +1,1 @@
-# tese
-Códigos fontes da Tese de doutorado
+# Códigos fontes da Tese de doutorado
